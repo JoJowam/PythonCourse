@@ -1,0 +1,1 @@
+# Este reporsitório é destinado ao armazenamento de exercícios do curso de python do canal "Curso em Vídeo"

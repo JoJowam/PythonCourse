@@ -1,1 +1,1 @@
-# Este reporsitório é destinado ao armazenamento de exercícios do curso de python do canal "Curso em Vídeo"
+Este reporsitório é destinado ao armazenamento de exercícios do curso de python do canal "Curso em Vídeo". Como solicitado, foram feitas as 20 primeiras aulas, resultando em 12 exercícios praticos. Aproveitando o repositorio, realizei algumas das operações do curso de Git que também foi repassado para o orientador, por isso o repositorio conta com 2 branches, pois usei para realizar os exercícios dos cursos também!

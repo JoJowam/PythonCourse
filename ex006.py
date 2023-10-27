@@ -1,0 +1,2 @@
+number = int(input('Digite um número: '))
+print("O dobro de {} é {}\nO triplo de {} é {}\nA raiz quadrada de {} é {:.2f}!" .format(number, (number * 2), number, (number * 3), number, (number ** (1/2))))
